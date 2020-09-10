@@ -22,7 +22,7 @@ a {
   background-image: url(top.png);
   background-size: cover;
   color: #3b5998;
-  text-align: left;
+  text-align: center;
 }
 
 .top-wrapper h1 {
@@ -38,7 +38,7 @@ a {
 }
 
 .btn-wrapper {
-  text-align: center;
+  text-align: left;
 }
 
 .btn-wrapper p {
@@ -78,7 +78,7 @@ a {
 header {
   height: 65px;
   width: 100%;
-  background-color: rgba(34,49,52,0.9);
+  background-color: white(34,49,52,0.9);
   position :fixed;
   top: 0;
   z-index: 10;
