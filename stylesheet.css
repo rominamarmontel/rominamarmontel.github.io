@@ -8,9 +8,9 @@ a {
 
 .top-wrapper {
   padding: 180px 0 100px 0;
-  background-image: url(/top.png);
+  background-image: url(top.png);
   background-size: cover;
-  color: white;
+  color: #5a5858;
   text-align: center;
 }
 
@@ -47,7 +47,7 @@ a {
 
 .btn {
   padding: 8px 24px;
-  color: white;
+  color: #5a5858;
   display: inline-block;
   opacity: 0.8;
   border-radius: 4px;
@@ -93,7 +93,7 @@ header {
 .header-right .login {
   line-height: 65px;
   padding: 0 25px;
-  color: white;
+  color: #5a5858;
   cursor: pointer;
   display: block;
 }
@@ -155,7 +155,7 @@ header {
   background-color: #5dca88;
   border: none;
   border-radius: 3px;
-  color: white;
+  color: #5a5858;
   margin: 10px auto;
   cursor: pointer;
 }
