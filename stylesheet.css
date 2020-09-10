@@ -60,7 +60,7 @@ a {
 
 .btn {
   padding: 8px 24px;
-  color: white;
+  color: black;
   display: inline-block;
   opacity: 0.8;
   border-radius: 4px;
@@ -123,7 +123,7 @@ header {
 .heading {
   padding-top: 80px;
   padding-bottom: 50px;
-  color: #5f5d60;
+  color: black;
 }
 
 .heading h2 {
@@ -143,7 +143,7 @@ header {
   position: absolute;
   top: 37%;
   width: 100%;
-  color: white;
+  color: black;
 }
 
 .text-contents {
@@ -151,7 +151,7 @@ header {
   display: inline-block;
   margin-top: 15px;
   font-size: 13px;
-  color: #b3aeb5;
+  color: black;
 }
 
 .heading h3 {
