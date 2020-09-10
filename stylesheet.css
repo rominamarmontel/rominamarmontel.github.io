@@ -22,7 +22,7 @@ a {
   background-image: url(top.png);
   background-size: cover;
   color: #3b5998;
-  text-align: center;
+  text-align: left;
 }
 
 .top-wrapper h1 {
