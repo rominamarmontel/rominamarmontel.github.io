@@ -1,8 +1,10 @@
-@media all and (max-width: 1000px) {
-
-}
-
-/* モバイル向けレイアウト */
-@media all and (max-width: 670px) {
-
-}
+<div class="container">
+<div class="header-left">
+    <img class="logo" src="https://prog-8.com/images/html/advanced/main_logo.png">
+</div>
+ <!-- モバイル用のヘッダーのメニューアイコン -->
+<span class="fa fa-bars menu-icon"></span>
+<div class="header-right">
+<a href="#">レッスン</a>
+<a href="#">新規登録</a>
+<a href="#" class="login">ログイン</a>
