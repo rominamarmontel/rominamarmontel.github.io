@@ -11,7 +11,7 @@ a {
   background-image: url(top.png);
   background-size: cover;
   color: #5a5858;
-  text-align: center;
+  text-align: left;
 }
 
 .container {
