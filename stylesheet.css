@@ -73,7 +73,7 @@ a {
 header {
   height: 65px;
   width: 100%;
-  background-color: rgba(53, 38, 100, 0.5);
+  background-color: rgba(145,147,2,0.25);
   position :fixed;
   top: 0;
   z-index: 10;
@@ -95,7 +95,7 @@ header {
 }
 
 .header-right:hover {
-  background-color: rgba(145,147,2,0.25);
+  background-color: rgba(145,147,2,0.5);
 }
 
 .header-right .login {
