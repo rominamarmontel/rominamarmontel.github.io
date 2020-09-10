@@ -21,7 +21,7 @@ a {
   padding: 180px 0 100px 0;
   background-image: url(top.png);
   background-size: cover;
-  color: white;
+  color: black;
   text-align: center;
 }
 
@@ -101,7 +101,7 @@ header {
 .header-right a {
   line-height: 65px;
   padding: 0 25px;
-  color: white;
+  color: black;
   display: block;
   float: left;
   transition: all 0.5s;
@@ -192,7 +192,7 @@ footer {
 }
 
 .menu-icon {
-  color: white;
+  color: black;
   float: right;
   font-size: 25px;
   padding: 21px 0;
