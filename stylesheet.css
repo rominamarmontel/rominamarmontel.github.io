@@ -95,7 +95,7 @@ header {
 }
 
 .header-right:hover {
-  background-color: rgba(255,255,255,0.5);
+  background-color: rgba(145,147,2,0.25);
 }
 
 .header-right .login {
