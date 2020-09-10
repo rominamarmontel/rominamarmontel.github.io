@@ -99,7 +99,7 @@ header {
 }
 
 /*モーダル*/
-.signup-modal-wrapper {
+.login-modal-wrapper, .signup-modal-wrapper {
   position: fixed;
   top: 0;
   right: 0;
@@ -130,17 +130,17 @@ header {
   cursor: pointer;
 }
 
-#signup-form {
+#signup-form, #login-form {
   width: 100%;
 }
 
-#signup-form h2 {
+#signup-form h2, #login-form h2 {
   color: #5f5d60;
   letter-spacing: 1px;
   margin-bottom: 40px;
 }
 
-#signup-form input {
+#signup-form input, #login-form input {
   width: 320px;
   margin-bottom: 20px;
   font-size: 12px;
@@ -177,11 +177,19 @@ header {
   font-weight: normal;
 }
 
+/*faq wrapper*/
 .faq-wrapper {
   background-color: #e6ecf0;
   text-align: center;
   padding-bottom: 80px;
   color: #5f5d60;
+}
+
+#faq-list {
+  width: 500px;
+  margin: 0 auto;
+  padding: 0;
+  list-style: none;
 }
 
 .message-wrapper {
