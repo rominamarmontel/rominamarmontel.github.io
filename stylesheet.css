@@ -47,7 +47,7 @@ a {
 
 .btn {
   padding: 8px 24px;
-  color: #5a5858;
+  color: white;
   display: inline-block;
   opacity: 0.8;
   border-radius: 4px;
@@ -65,7 +65,7 @@ a {
 header {
   height: 65px;
   width: 100%;
-  background-color: #FFFFFF;
+  background-color: rgba(34,49,52,0.9);
   position :fixed;
   top: 0;
   z-index: 10;
@@ -82,7 +82,7 @@ header {
 
 .header-right {
   float: right;
-  background-color: #FFFFFF;
+  background-color: rgba(255,255,255,0.3);
   transition: all 0.5s;
 }
 
@@ -93,7 +93,7 @@ header {
 .header-right .login {
   line-height: 65px;
   padding: 0 25px;
-  color: #5a5858;
+  color: white;
   cursor: pointer;
   display: block;
 }
@@ -155,7 +155,7 @@ header {
   background-color: #5dca88;
   border: none;
   border-radius: 3px;
-  color: #5a5858;
+  color: white;
   margin: 10px auto;
   cursor: pointer;
 }
