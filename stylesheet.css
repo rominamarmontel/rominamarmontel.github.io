@@ -128,7 +128,7 @@ header {
 .top-section {
   margin: 0 auto;
   text-align: center;
-  background-image: url("https://s3-ap-northeast-1.amazonaws.com/progate/shared/images/lesson/jquery/advanced/first_view.jpg");
+  background-image: url("top.png");
   background-size: cover;
 }
 
