@@ -231,33 +231,17 @@ header {
   padding-top: 120px;
 }
 
+.interview-box {
+  display: inline-block;
+  vertical-align: top;
+  width: 44%;
+  margin-left: 65px;
+  margin-bottom: 60px;
+}
+
 .interview-image {
   width: 280px;
   border-radius: 50%;
-}
-
-.lesson {
-  float: left;
-  width: 25%;
-}
-
-.lesson-icon {
-  position: relative;
-}
-
-.lesson-icon p {
-  position: absolute;
-  top: 44%;
-  width: 100%;
-  color: white;
-}
-
-.text-contents {
-  width: 25%;
-  display: inline-block;
-  margin-top: 15px;
-  font-size: 13px;
-  color: #b3aeb5;
 }
 /*-------  ここまでinterview  --------*/
 
