@@ -121,6 +121,7 @@ header {
   line-height: 65px;
   padding: 0 25px;
   color: white;
+  float: left;
   cursor: pointer;
   display: block;
 }
