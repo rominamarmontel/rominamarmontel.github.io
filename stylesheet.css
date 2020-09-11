@@ -1,3 +1,7 @@
+* {
+  box-sizing: border-box;
+}
+
 /*-------  ここから共通のCSS  --------*/
 body {
   margin: 0;
