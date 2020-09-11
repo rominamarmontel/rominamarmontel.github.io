@@ -21,7 +21,7 @@ a {
   max-width: 1170px;
   width: 100%;
   padding: 0 15px;
-  margin: 0 auto;  
+  margin: 0 auto;
 }
 
 .top-wrapper h1 {
@@ -90,10 +90,31 @@ header {
   float: right;
   background-color: ＃FFFFFF;
   transition: all 0.5s;
+  margin-right: -25px;
 }
 
-.header-right:hover {
+.header-right a {
+  line-height: 65px;
+  padding: 0 25px;
+  color: white;
+  display: block;
+  float: left;
+  transition: all 0.5s;
+}
+
+.header-right a:hover {
   background-color: rgba(145,147,2,0.5);
+}
+
+.menu-icon {
+  color: white;
+  float: right;
+  font-size: 25px;
+  padding: 21px 0;
+  display: none;
+}
+.clear {
+  clear: left;
 }
 
 .header-right .login {
@@ -232,15 +253,4 @@ footer p {
 
 footer {
   padding-top: 30px;
-}
-
-.menu-icon {
-  color: white;
-  float: right;
-  font-size: 25px;
-  padding: 21px 0;
-  display: none;
-}
-.clear {
-  clear: left;
 }
