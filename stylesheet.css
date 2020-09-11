@@ -1,11 +1,6 @@
-.menu-icon {
-  color: white;
-  float: right;
-  font-size: 25px;
-  padding: 21px 0;
-   /* デフォルトではメニューアイコンは非表示に */
-  display: none;
-  }
+* {
+  box-sizing: content-box;
+}
 body {
   margin: 0;
 }
@@ -234,4 +229,14 @@ footer p {
 
 footer {
   padding-top: 30px;
+}
+.menu-icon {
+  color: white;
+  float: right;
+  font-size: 25px;
+  padding: 21px 0;
+  display: none;
+}
+.clear {
+  clear: left;
 }
