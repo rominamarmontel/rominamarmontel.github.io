@@ -183,23 +183,23 @@ header {
 
 /*-------  ここまでtop content  --------*/
 
-/*-------  ここからstamp  --------*/
-.stamps-section {
+/*-------  ここからblog  --------*/
+.blog-section {
   text-align: center;
   padding-bottom: 60px;
 }
 
-#stamps > .container {
+#blog > .container {
   width: 936px;
 }
 
-.stamp-box {
+.blog-box {
   width: 100%;
   margin: 0 auto;
   margin-bottom: 80px;
 }
 
-.stamp-image {
+.blog-image {
   width: 400px;
   height: 400px;
   margin: 10px 0;
@@ -221,12 +221,12 @@ header {
   color: #5983ff;
 }
 
-/*-------  ここまでstamp  --------*/
+/*-------  ここまでblog  --------*/
 
-/*-------  ここからinterview  --------*/
+/*-------  ここからabout  --------*/
 .lesson-wrapper {
   height: 500px;
-  padding-bottom: 80px;
+  padding-bottom: 500px;
   background-color: #f7f7f7;
   /* text-alignをcenterに指定してください */
   text-align: center;
