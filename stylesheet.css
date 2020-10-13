@@ -110,7 +110,6 @@ header {
 
 .header-menu-right {
   float: right;
-  font-family: "游明朝", YuMincho, "Hiragino Mincho ProN", "Hiragino Mincho Pro", "ＭＳ 明朝", serif;
 }
 
 .header-menu-right li {
@@ -120,6 +119,7 @@ header {
 .header-menu-right a {
   color: #323A45;
   font-weight: 700;
+  font-family: "游明朝", YuMincho, "Hiragino Mincho ProN", "Hiragino Mincho Pro", "ＭＳ 明朝", serif;
   padding: 10px;
   text-decoration: none;
 }
